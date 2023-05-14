@@ -12,7 +12,7 @@ The main objective of this project is to create a realistic and visually appeali
   <li>Israk Hossain Pantho</li>
   <li>Sadikul Mobasshir</li>
   <li>Khondokar Faisal Ibn Aziz</li>
-  <li>Fahim Rafman</li>
+  <li>Fahim Rahman</li>
 </ul>
 
 For video click <a href ="https://youtu.be/nFTefqJu1cs"> here. </a>
